@@ -37,7 +37,7 @@ screenshots/: Dashboard images
 
 How to Run
 
-Clone the repo: git clone https://github.com/yourusername/churn-prediction
+Clone the repo: git clone 
 Open powerbi/churn_dashboard.pbix in Power BI Desktop.
 Import data/processed_data.csv if needed.
 Explore dashboards with slicers for gender, SeniorCitizen, Cluster.
