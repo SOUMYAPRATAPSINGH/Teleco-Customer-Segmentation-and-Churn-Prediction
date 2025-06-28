@@ -46,5 +46,8 @@ Future Improvements
 
 Integrate predictive modeling using Python (e.g., random forest).
 Add time-series analysis for churn trends.
-Publish dashboard to Power BI Service for real-time access.
+Publish dashboard to Power BI Service for real-time access ![Screenshot 2025-06-28 164508](https://github.com/user-attachments/assets/66177199-ceac-466d-a9c6-24d6ac4dd6be)
+.
+
+
 
